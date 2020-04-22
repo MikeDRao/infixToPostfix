@@ -1,6 +1,5 @@
-# Michael Rao
+
 # 4/22/2020
-# 1001558150
 # Windows 10 / Python 3.7.6
 
 import sys # used to exit the program if no valid file name is provided
